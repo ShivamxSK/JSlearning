@@ -5,7 +5,7 @@ function fun1(input) {
 console.log(fun1(1));
 
 const fun2 = function (input) {
-  let x = 2;
+  let x = 3;
   return input;
 };
 console.log(fun2(1));
